@@ -9,7 +9,7 @@ pip install numpy
 pip install pandas
 pip install matplotlib
 ```
-
+#### clone or download 本项目 ####
 #### 运行 solve.py 文件 ####
 
 里面的参数按着实际改
