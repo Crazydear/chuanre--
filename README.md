@@ -1,6 +1,6 @@
-# chuanre--
-# 第三方库:numpy(必需) chuanre(必需,项目已带)
-#          pandas(保存数据) matplotlib(画图)
+# chuanre
+#### 第三方库:numpy(必需) chuanre(必需,项目已带)
+####          pandas(保存数据) matplotlib(画图)
 
 ### 安装第三方库 ###
 
